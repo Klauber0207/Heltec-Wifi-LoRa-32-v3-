@@ -1,3 +1,9 @@
+TCC: Sistema de monitoramento utilizando Heltec wifi lora 32 v3
+Autor: Klauber Araujo Sousa
+Ano: 2023
+
+
+
 #include <Arduino.h>
 #include <LoRa.h>
 
